@@ -21,8 +21,5 @@ cout<< check4 <<endl;
 bool check5 = (num1<num2);
 cout<< check5 <<endl;
 bool check6 = (num1>num2);
-cout<< check6 <<endl;
-
-
-
+cout<< check6 <<endl;        
 }

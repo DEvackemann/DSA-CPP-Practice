@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/dubey/DSA-CPP-Practice/CPP-Program/patternsProblem",
-      "program": "c:/Users/dubey/DSA-CPP-Practice/CPP-Program/patternsProblem/build/Debug/outDebug",
+      "cwd": "c:/Users/dubey/DSA-CPP-Practice/CPP-Program",
+      "program": "c:/Users/dubey/DSA-CPP-Practice/CPP-Program/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
