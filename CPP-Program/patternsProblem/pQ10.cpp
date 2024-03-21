@@ -1,11 +1,9 @@
-/*
-Enter the number : 5
-A B C D E 
-B C D E F 
-C D E F G 
-D E F G H 
-E F G H I 
-*/
+// Enter the number : 4
+// D 
+// C D 
+// B C D 
+// A B C D
+
 #include<iostream>
 using namespace std;
 int main()
@@ -17,8 +15,8 @@ int main()
     while (i<=n)
     { 
         char j=1 ;
-        char ch ='A'+i+j-2 ;  // for easy way char ch ='A'+i-1 ;
-        while (j<=n){
+        char ch ='A' + n -i ;
+        while (j<=i){
         cout<< ch << " " ;
         ch++;
         j++;
@@ -26,6 +24,4 @@ int main()
         cout<<  endl;
         i++;
     }
-    
 }
-
