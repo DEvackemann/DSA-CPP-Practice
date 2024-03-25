@@ -31,7 +31,7 @@ cout<<" the value of n = "<<n<< " is positive" << endl;
 
 //while loop
 
-#include <iostream>
+/*#include <iostream>
 using namespace std;
 int main() {
     
@@ -45,4 +45,4 @@ int main() {
     }
     
 
-}
+}*/
