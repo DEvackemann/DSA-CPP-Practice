@@ -13,7 +13,6 @@ int main() {
 
     return 0;
 }
-
 /*
 ASCII values of numbers is  
 '0': 48
