@@ -5,7 +5,7 @@ int main() {
   cout << a<< endl;
     cout<< "double:"<< 2.34/3 <<endl;
     cout<< "float:"<< 6.0 /3 <<endl;
-
+   
 //RELATIONAL OPERATOR 
 //  =, < , >, <=, >=, !=
 int num1 = 3; 

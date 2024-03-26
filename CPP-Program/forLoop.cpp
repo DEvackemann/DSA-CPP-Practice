@@ -7,6 +7,7 @@ int main(){
     for (int i;i<n;i++)
     cout<< i<<endl;
 }
+
 //or it can be writen as 
 // int main(){
 //     int n;
